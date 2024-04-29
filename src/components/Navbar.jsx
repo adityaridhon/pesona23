@@ -37,7 +37,7 @@ const Navbar = () => {
         <div className="flex items-center space-x-3 rtl:space-x-reverse">
           <img src={logoPesona} className="w-16 " alt="Logo" />
           <span className="self-center text-2xl font-semibold whitespace-nowrap text-white">
-            PESONA 23
+            PESONA 800
           </span>
         </div>
         <button
