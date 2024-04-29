@@ -31,13 +31,13 @@ const Jumbotron = () => {
       <div className="absolute inset-0 z-10 flex items-center justify-center text-center">
         <div>
           <h1 className="text-4xl font-extrabold tracking-tight leading-none text-white md:text-5xl lg:text-6xl">
-            PESONA 23
+            PESONA 800
           </h1>
           <p className="mt-4 font-semibold text-lg text-white lg:text-2xl">
             Pengabdian Mahasiswa Untuk Edukasi, Sosialisasi dan Aksi Nyata.
           </p>
           <p className="mt-2 text-md font-normal text-white lg:text-xl">
-            27-28 April 2024
+            TBA
           </p>
         </div>
       </div>
