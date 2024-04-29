@@ -31,7 +31,7 @@ const Jumbotron = () => {
       <div className="absolute inset-0 z-10 flex items-center justify-center text-center">
         <div>
           <h1 className="text-4xl font-extrabold tracking-tight leading-none text-white md:text-5xl lg:text-6xl">
-            PESONA 800
+            PESONA 23
           </h1>
           <p className="mt-4 font-semibold text-lg text-white lg:text-2xl">
             Pengabdian Mahasiswa Untuk Edukasi, Sosialisasi dan Aksi Nyata.
